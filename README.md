@@ -1,6 +1,8 @@
 # Bootsector experimentation
 
-This directory is some mini bootsector projects for me to get used to programming the bootsector
+This directory is some mini bootsector projects for me to get used to programming the bootsector.
+
+Each projects is a practice for programming the actual bootsector
 
 # Compile and run
 
